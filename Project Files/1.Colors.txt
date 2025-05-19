@@ -1,0 +1,8 @@
+#FF8225 - Accent Color
+#FFF7F1 - Background Color 1
+#F9F9F9 - Background Color 1
+#FFFFFF - White Color
+#000000 - Text Color 1
+#B5B5B5 - Text Color 2
+#D2001A - Error Color
+#129956 - Success display Color
